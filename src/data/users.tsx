@@ -760,14 +760,21 @@ const Users: User[] = [
     tags: ['apps','earn'],
   },
   {
+    title: 'Footprint Analytics',
+    description: 'Explore community-built analysis and create charts with no code required.',
+    preview: require('https://files.readme.io/5336301-180.png'),
+    website: 'https://www.footprint.network/',
+    source: 'https://www.footprint.network/',
+    tags: ['apps','analytics']
+  },
+  {
     title: 'Cred Protocol',
     description: 'Quantifying digital asset lending risk, to democratise access to credit.',
     preview: require('./showcase/cred-protocol.png'),
     website: 'https://app.credprotocol.com/',
     source: 'https://app.credprotocol.com/,
     tags: ['apps','impact','defi'],
-  },
-  
+  }
   /*
   Pro Tip: add your site in alphabetical order.
   Appending your site here (at the end) is more likely to produce Git conflicts.
