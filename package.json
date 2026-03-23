@@ -31,6 +31,7 @@
     "@mdx-js/react": "^3.0.0",
     "@popperjs/core": "^2.11.5",
     "@saucelabs/theme-github-codeblock": "^0.1.1",
+    "@vercel/analytics": "^2.0.1",
     "assert": "^2.0.0",
     "autoprefixer": "^10.4.13",
     "buffer": "^6.0.3",
